@@ -1,3 +1,3 @@
 cd C:\Path Folder
-python assist.py
+py assist.py
 -NoExit
