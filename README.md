@@ -9,14 +9,16 @@
 5. Done
 
 #How To Start Hack
-1. Open 
-2.  
-3.  `python assist.py` as Administrator
+1. Edit `aim.bat` file and put your folder path after cd and Save it
+2. Open `aim.bat` as Admin
+3. Enjoy
 
-Check options in the `assist.py` file:
-* Field of View
-* Distance Limit
-* Trigger (Aim) Button
-* Aim Locations
-* Aim Location Switching Button
-* Screensize (should be ok with default)
+#In Arabic
+1. حمل اخر اصدار من برنامج البايثون
+2. قم بتنصيبه
+3. افتح برنامج CMD كمسؤل
+4. `pip install -r requirements.txt`اكتب داخل البرنامج 
+5. `aim.bat`قم بتعديل ملف 
+6. ضع مسار الفولدر التابع للملفات بعد كلمه cd
+7. واحفظ الملف الذي تم تعديله 
+8. افتح الملف كمسؤل 
