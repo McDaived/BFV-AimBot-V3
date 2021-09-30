@@ -1,6 +1,6 @@
 # BFV-AimBot-V3
 
-#Important
+# Important
 
 1. Download Lastest Version of Python
 2. Intall it
@@ -8,12 +8,12 @@
 4. write in CMD `pip install -r requirements.txt`
 5. Done
 
-#How To Start Hack
+# How To Start Hack
 1. Edit `aim.bat` file and put your folder path after cd and Save it
 2. Open `aim.bat` as Admin
 3. Enjoy
 
-#In Arabic
+# In Arabic
 1. حمل اخر اصدار من برنامج البايثون
 2. قم بتنصيبه
 3. افتح برنامج CMD كمسؤل
