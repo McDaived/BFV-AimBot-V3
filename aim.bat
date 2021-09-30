@@ -1,3 +1,3 @@
-cd C:\Users\Dr Daived\Desktop\Work\New folder
+cd C:\Path Folder
 python assist.py
 -NoExit
