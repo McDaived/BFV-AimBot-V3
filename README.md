@@ -2,7 +2,7 @@
 
 # Important
 
-1. Download Lastest Version of Python
+1. Download lastest version of python
 2. Intall it
 3. Open CMD as admin 
 4. write in CMD `pip install -r requirements.txt`
